@@ -1,2 +1,2 @@
-# e-commerce
-this is a ecommerce website with php ajax and javascript
+# final-project
+Here is my final project
